@@ -20,11 +20,7 @@ This project was created to practice JavaScript logic, DOM manipulation, event h
 
 ## 📸 Preview
 
-_Add screenshots or GIFs here_
 
-```md
-![Preview](./preview.png)
-```
 
 ---
 
